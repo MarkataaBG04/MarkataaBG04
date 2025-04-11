@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marius</h1>
 <h3 align="center">Aspiring C# developer, currently learning and growing in the world of tech from Bulgaria</h3>
-
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxyajllZnl0aXpqYWI1b3c2bHA4cTdwZGdoaTRxY2wzN3Q5eW53byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100" padding="0" margin="0"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=markataabg04&label=Profile%20views&color=0e75b6&style=flat" alt="markataabg04" /> </p>
 
 - 🌱 I'm currently learning: ****C#**, **HTML**, **CSS**, and general web technologies. Also exploring how games are built behind the scenes!**
